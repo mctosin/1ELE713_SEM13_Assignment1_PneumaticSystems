@@ -1,6 +1,6 @@
 # 1ELE713_SEM13_Assignment1_PneumaticSystems
 
-A Lista de exercícios sobre modelagem de sistema fluídicos com vasos comunicantes encontra-se no arquivo 1ELE713-Sem13-Assignm1-SistemasPneumaticos-Lista1.pdf, neste repositório.
+A Lista de exercícios sobre modelagem de sistemas pneumáticos encontra-se no arquivo 1ELE713-Sem13-Assignm1-SistemasPneumaticos-Lista1.pdf, neste repositório.
 
 Observações:
 
